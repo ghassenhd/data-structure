@@ -14,7 +14,7 @@
  */
 
 
-//--------> end of the section <--------//|
+//-------------------> end of the section <------------------//|
 
 struct linked_list
 {
